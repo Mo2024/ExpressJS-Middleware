@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Mo2024/ExpressJS-Middleware#readme",
   "dependencies": {
+    "express": "^4.17.2",
     "morgan": "^1.10.0"
   }
 }
